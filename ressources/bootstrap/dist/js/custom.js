@@ -22,7 +22,7 @@ jQuery(document).ready(function () {
 
             $('a').each(function () {
                 $(this).removeClass('active');
-            })
+            });
             $(this).addClass('active');
 
             var target = this.hash,
@@ -58,18 +58,18 @@ jQuery(document).ready(function () {
 
         if (windowScrollPosTop >= 150) {
             jQuery(".header").css({
-                "background": "#B193DD",
+                "background": "#B193DD"
             });
             jQuery(".top-header img.logo").css({
                 "margin-top": "-40px",
                 "margin-bottom": "0"
             });
             jQuery(".navbar-default").css({
-                "margin-top": "-15px",
+                "margin-top": "-15px"
             });
         } else {
             jQuery(".header").css({
-                "background": "transparent",
+                "background": "transparent"
             });
             jQuery(".top-header img.logo").css({
                 "margin-top": "-15px",
