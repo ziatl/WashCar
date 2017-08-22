@@ -86,13 +86,13 @@ ul.nav {
     font-weight: bold;
 }
 .navbar-default .navbar-nav>li>a:hover {
-    color: #42b3e5;
+    color: #45106F;
 }
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #000;
 }
 li a.active {
-    color: #42b3e5 !important;
+    color: #45106F !important;
 }
 .navbar-default .navbar-toggle {
     border-color: #fff;
@@ -904,3 +904,4 @@ responsive area
         font-size: 10px;
     }
 }
+
