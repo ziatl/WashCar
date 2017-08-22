@@ -3,16 +3,13 @@ jQuery(document).ready(function () {
 
     $('#carouselHacked').carousel();
 
-    //this code is for the gmap
-    var map = new GMaps({
-        el: '#map',
-        lat: -12.043333,
-        lng: -77.028333
-    });
+
 
 
     //this code is for smooth scroll and nav selector
     $(document).ready(function () {
+
+
         $(document).on("scroll", onScroll);
 
         //smoothscroll
@@ -37,17 +34,16 @@ jQuery(document).ready(function () {
         });
     });
 
+
+
     function onScroll(event) {
+
+
         var scrollPos = $(document).scrollTop();
         $('.navbar-default .navbar-nav>li>a').each(function () {
             var currLink = $(this);
             var refElement = $(currLink.attr("href"));
-            if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
-                $('.navbar-default .navbar-nav>li>a').removeClass("active");
-                currLink.addClass("active");
-            } else {
-                currLink.removeClass("active");
-            }
+
         });
     }
 
@@ -85,5 +81,12 @@ jQuery(document).ready(function () {
 
 
 
-
 });
+function fermerButton(){
+
+    var menuItem = document.getElementById("btn_menu");
+
+    $(".navbar-collapse").collapse('hide');
+
+};
+
