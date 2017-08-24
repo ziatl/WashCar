@@ -342,7 +342,7 @@ li a.active {
 .service-img:before {
     content: "";
     position: absolute;
-    top: -40px;
+    top: 20px;
     left: 0;
     width: 0;
     height: 0;
