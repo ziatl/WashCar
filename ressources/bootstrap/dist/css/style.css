@@ -677,7 +677,11 @@ body,
 responsive area
 ********************************/
 
-
+@media (min-width: 1199px) and (max-width: 2500px) {
+    h2 {
+        font-size: 70px !important;
+    }
+}
 /* md */
 
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -697,7 +701,7 @@ responsive area
         font-size: 26px;
     }
     h2 {
-        font-size: 75px !important;
+        font-size: 50px !important;
     }
     h4 {
         font-size: 22px !important;
@@ -731,7 +735,7 @@ responsive area
         font-size: 22px;
     }
     h2 {
-        font-size: 70px !important;
+        font-size: 50px !important;
     }
     h4 {
         font-size: 18px !important;
@@ -779,7 +783,7 @@ responsive area
         margin-top: -1120px;
     }
     h2 {
-        font-size: 70px !important;
+        font-size: 30px !important;
     }
     h4 {
         font-size: 21px !important;
