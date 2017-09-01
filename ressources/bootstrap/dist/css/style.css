@@ -190,7 +190,7 @@ li a.active {
 .about h2 {
     font-size: 90px;
     color: #42b3e5;
-    margin-top: 50px;
+    margin-top: 115px;
 }
 .about h5{
     font-size: 50px;
@@ -202,6 +202,13 @@ li a.active {
     color: #737373;
     margin-bottom: 45px;
 }
+
+.about h6{
+    font-size: 24px;
+    color: #737373;
+    margin-bottom: 30px;
+}
+
 .about-img img {
     width: 100%;
 }
@@ -270,9 +277,14 @@ li a.active {
     font-size: 13px;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
-    padding: 0 25px;
-    padding-bottom: 30px;
+    padding: 15px;
+    padding-bottom: 15px;
+    margin-bottom: -15px;
+    margin-top: -15px;
 }
+
+
+
 .single-about-detail:hover .about-details {
     background: #3a9dca;
 }
@@ -906,6 +918,8 @@ responsive area
     .footer p {
         font-size: 10px;
     }
-}
+
+
+
 
 

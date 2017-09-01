@@ -1,0 +1,275 @@
+/*
+
+Theme Name: Salient Child Theme
+
+Theme URI: http: //mysite.com/
+
+Description: This is a custom child theme for Salient
+
+Author: My Name
+
+Author URI: http: //mysite.com/
+
+Template: salient
+
+Version: 0.1
+
+*/
+
+
+
+@import url("../salient/style.css");
+ @media (min-width : 720px) {
+body[data-header-color="custom"] #header-outer, body[data-header-color="custom"] #search-outer, body[data-header-color="dark"] #header-outer, body[data-header-color="dark"] #search-outer {
+	background-color: rgba(0, 0, 0, 0.65);
+}
+#footer-outer .row {
+	padding: 0px 0px;
+	margin-bottom: 0px;
+}
+#footer-widgets {
+	height: 80px;
+}
+#footer-outer #footer-widgets .col ul li:first-child > a {
+	padding-top: 8px!important;
+}
+.menu-footer-menu-container {
+	float: right;
+	width: 150px;
+}
+#footer-outer #footer-widgets .col ul li:first-child {
+	float: left;
+	width: 100px;
+}
+#footer-outer #footer-widgets .container {
+	padding-top: 23px;
+}
+#copyright {
+	display: none;
+}
+#footer-outer .textwidget {
+	padding-top: 8px;
+}
+#footer-outer .row .col #text-2 img {
+	margin-bottom: 15px;
+	max-width: 100%;
+	width: 30px;
+	height: 30px;
+}
+#header-secondary-outer #adress_tel {
+	float: right;
+	padding-top: 4px;
+}
+#header-secondary-outer #adress_tel li {
+	float: left;
+}
+}
+header#top nav ul li a {
+	font-weight: bold;
+}
+@media (max-width : 720px) {
+#text-2 .textwidget img {
+	margin-right: 80%;
+}
+#text-3 .textwidget {
+	width: 31%;
+	margin-top: -50px;
+}
+#footer-outer .row {
+	padding-bottom: 0px;
+}
+}
+.table_price {
+	text-align: center;
+	width: 61%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}
+.table_price li {
+	list-style-type: none;/* border:1px solid #fff;*/
+}
+ .table_price .offre1 ul li:first, .table_price .offre2 ul li:first {
+background-image :initial;
+}
+.table_price .offre1 ul li ul li, .table_price .offre2 ul li ul li {
+	padding-top: 8px;
+}
+.offre1 .services ul li[class="paire"], .table_price .offre1 ul li ul li[class="paire"], .table_price .offre2 ul li ul li[class="paire"] {
+	background-image: linear-gradient(#F8F8F8, #999999); /* Norme W3C */
+	background-image: -moz-linear-gradient(#F8F8F8, #999999); /* Firefox */
+	background-image: -webkit-gradient(linear, #F8F8F8, #999999); /* Chrome, Safari */
+	background-image: -o-linear-gradient(#F8F8F8, #999999); /* Opera */
+	background-image: -ms-linear-gradient(#F8F8F8, #999999); /* IE */
+}
+.table_price .offre1 ul li, .table_price .offre2 ul li {
+	background-image: linear-gradient(#F8F8F8, #B6B6B6); /* Norme W3C */
+	background-image: -moz-linear-gradient(#F8F8F8, #B6B6B6);
+	background-image: -webkit-gradient(linear, #F8F8F8, #B6B6B6);
+	background-image: -o-linear-gradient(#F8F8F8, #B6B6B6);
+	background-image: -ms-linear-gradient(#F8F8F8, #B6B6B6); /* IE */
+}
+.header_table {
+	width: 100%;
+	color: #fff;
+}
+.header_table {
+	background: url(images/header_table.png) no-repeat center top;
+	height: 80px;
+}
+.header_table ul li {
+	width: 25%;
+	float: left;
+	list-style-type: none;
+	height: 80px;
+}
+.offre1, .offre2 {
+	background: #e8e8e8;
+	height : auto;
+	display: inline-table;
+	width: 100%;
+}
+.offre1 ul, .offre2 ul {
+	display: table-row;
+}
+.offre1 ul il {
+	padding: 20px;
+}
+.offre2 h1, .offre1 h1 {
+	margin-left: -22px;
+	padding: 20px 30px 6px 30px;
+	font-size: 54px!important;
+	line-height: 42px!important;
+	color: #333;
+	margin-bottom: 0px;
+}
+.offre2 ul li, .offre1 ul li {
+	width: 25%;
+	float: left;
+	height: 162px;
+	display: table;
+}
+.offre2 ul li {
+	height: 242px;
+}
+.offre1 ul > li > ul > li, .offre2 ul > li > ul > li {
+	width: 100%;
+	height: 40px;/*text-align: left; border-top:1px solid #FDFAED;border-bottom:1px solid #FDFAED; */
+}
+.offre2 .price {
+	padding: 7% 0;
+}
+.offre1 .price {
+	padding: 3% 0;
+}
+.title_table {
+	margin-left: -23px;
+}
+padding-left: 35px;
+.title_table2 {
+	padding-left: 35px;
+}
+.title_table3 {
+	padding-left: 35px;
+}
+.footer_table {
+	width: 100%;
+}
+.footer_table {
+	background-image: linear-gradient(#F8F8F8, #B6B6B6); /* Norme W3C */
+	background-image: -moz-linear-gradient(#F8F8F8, #B6B6B6); /* Firefox */
+	background-image: -webkit-gradient(linear, #F8F8F8, #B6B6B6); /* Chrome, Safari */
+	background-image: -o-linear-gradient(#F8F8F8, #B6B6B6); /* Opera */
+	background-image: -ms-linear-gradient(#F8F8F8, #B6B6B6); /* IE */
+	height: 40px;
+}
+.footer_table ul li {
+	width: 25%;
+	float: left;
+	list-style-type: none;
+	height: 40px;
+}
+.footer_table .price {
+	padding: 0px;
+}
+.footer_table .price h1 {
+	margin: 0;
+}
+.footer_table .title_footer {
+	height: 61px;
+	padding: 30px 0;
+}
+.footer_table .price h1 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	;
+}
+.services_table {
+	width: 100%;
+	color: #fff;
+}
+.services_table {
+	background: url(images/header_table1.png) repeat center top;
+	height: 80px;
+}
+.services_table ul li {
+	width: 100%;
+	float: left;
+	list-style-type: none;
+	height: 80px;
+}
+.services ul li {
+	width: 100%;
+	height: 50px;
+	padding-top : 12px;
+}
+.services ul li[class="paire"] {
+	background-image: linear-gradient(#F8F8F8, #999999); /* Norme W3C */
+	background-image: -moz-linear-gradient(#F8F8F8, #999999); /* Firefox */
+	background-image: -webkit-gradient(linear, #F8F8F8, #999999); /* Chrome, Safari */
+	background-image: -o-linear-gradient(#F8F8F8, #999999); /* Opera */
+	background-image: -ms-linear-gradient(#F8F8F8, #999999); /* IE */
+}
+.paddg {
+	padding-left : 20px;
+}
+body header#top nav > ul > li > a:hover, body header#top nav .sf-menu > li.current-menu-item > a {
+	background: #becc49;
+	padding: 38px 15px 20px 15px !important;
+}
+body header#top nav .sf-menu > li.current_page_item > a {
+	padding: 38px 15px 20px 15px !important;
+}
+header#top #logo img {
+	margin-bottom: 14px;
+	margin-top: 14px;
+}
+header#top nav > ul > li {
+	height: 85px;
+}
+header#top nav > ul > li > a {
+	padding: 38px 15px 20px 15px !important;
+}
+body header#top nav > ul > li > a:hover, body header#top nav .sf-menu > li.current-menu-item > a {
+	height: 85px;
+}
+
+/* Ajouté par David l 27-01-2015 */
+div.remise p {
+	color: #FF0000;
+	background-color: #FFFF00;
+	padding: 7px 5px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+}
+.qq_jours {
+	color: #888;
+}
+.centrer-une-colonne .pricing-column  {
+	margin:0 37%;
+	min-width: 310px;
+}
+.centrer-une-colonne .pricing-column h4 {
+    width: 80%;
+}
