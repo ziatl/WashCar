@@ -190,7 +190,7 @@ li a.active {
 .about h2 {
     font-size: 90px;
     color: #42b3e5;
-    margin-top: 115px;
+    margin-top: 130px;
 }
 .about h5{
     font-size: 50px;
@@ -760,7 +760,7 @@ responsive area
         height: 1050px;
     }
     .contact-caption {
-        margin-top: 110px;
+        margin-top: 180px;
     }
 }
 
@@ -809,6 +809,11 @@ responsive area
     .contact-caption {
         margin-top: 140px;
     }
+    .about h2 {
+        font-size: 50px;
+        color: #42b3e5;
+        margin-top: 160px;
+    }
 }
 
 /* XS Portrait */
@@ -817,107 +822,134 @@ responsive area
     .top-header img.logo {
         margin: 20px 10px;
     }
+
     .header-logo {
         margin-top: 20px !important;
     }
+
     .navbar-default .navbar-toggle {
         border-color: #fff;
         margin-top: -7px;
         right: 10%;
     }
-    .navbar-default .navbar-nav>li>a {
+
+    .navbar-default .navbar-nav > li > a {
         font-size: 16px;
         text-align: left;
     }
+
     .header-backup {
         height: 80px;
     }
+
     .carousel-caption {
         margin-top: -60px;
     }
+
     .carousel-caption h1 {
         font-size: 20px;
     }
+
     .carousel-caption p {
         font-size: 12px;
     }
+
     .carousel-caption button {
         width: 90px;
         height: 23px;
         font-size: 16px;
     }
+
     .carousel-control .glyphicon-chevron-right,
     .carousel-control .icon-next {
         margin-top: 30px;
     }
+
     .carousel-control .glyphicon-chevron-left,
     .carousel-control .icon-prev {
         margin-top: 30px;
     }
+
     .about h2 {
-        font-size: 50px;
+        font-size: 40px;
         color: #42b3e5;
         margin-top: 30px;
     }
+
     .service h2 {
         font-size: 50px;
         margin-top: 40px;
     }
+
     .team h2 {
         font-size: 50px;
         margin-top: 40px;
     }
+
     h4 {
         font-size: 18px !important;
     }
+
     .contact-caption {
         margin-top: 38%;
     }
+
     #map {
         height: 950px;
     }
+
     .contact {
         height: 950px;
         margin-top: -950px;
     }
+
     .contact-heading h2 {
         font-size: 50px;
         text-align: left;
         margin-left: 15px;
     }
+
     .contact-info h3 {
         margin-left: 8px;
         font-size: 25px;
         padding-bottom: 8px;
     }
+
     .info-detail {
         margin-left: 8px;
     }
+
     .contact-info ul li {
         font-size: 10px;
     }
+
     .contact-info i.fa {
         font-size: 13px;
         width: 20px;
         height: 18px;
     }
+
     .contact-info,
     .contact-form {
         padding: 10px;
     }
+
     .contact-form h3 {
         font-size: 25px;
         padding-bottom: 8px;
         margin-bottom: 0;
         margin-right: 0px;
     }
+
     .footer a i.fa {
         font-size: 18px;
         padding: 25px 7px;
     }
+
     .footer p {
         font-size: 10px;
     }
+}
 
 
 

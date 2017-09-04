@@ -2,124 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97317740-3d91-43e8-a262-4309e3a5f9b5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/Picto-Berlines.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/analytics.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/auto-clean.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/autocomplete.min.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/comment-reply.min.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/core.min.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/css(1)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/css(2)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/dynamic-captions.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/get-userid.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/init.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/isotope.min.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/jlive" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/jquery-migrate.min.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/jquery.form.min.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/jquery.js(1).téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/jquery.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/jquery.themepunch.plugins.min.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/jquery.themepunch.revolution.min.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/js_composer_front.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/js_composer_front.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/menu.min.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/modernizr.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/picto_4x4_espace.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/picto_citadine.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/position.min.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/prettyPhoto.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/respond.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/rgs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/scripts.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/settings.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/static-captions.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/sticky.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/superfish.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/voiture-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/widget.min.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/wp-a11y.min.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/wp-embed.min.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/wp-emoji-release.min.js.téléchargement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ressources/image/Nettoyage Véhicule Lyon, Lavage auto à Lyon_files/wpss-search-suggest.js.téléchargement" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/btn-bg.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/btn-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/item1.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/item1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/item2.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/item2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/item3.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/item3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/logo.png" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/member1.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/member1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/member2.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/member2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/member3.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/member3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/member4.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/member4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/member5.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/member5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/member6.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/member6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/pattern.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/pattern.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/service1.png" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/service1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/service2.png" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/service2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/service3.png" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/service3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/service4.png" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/service4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/slide-four.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/slide-four.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/slide-one.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/slide-one.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/slide-three.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/slide-three.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/img/slide-two.jpg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/img/slide-two.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/image/Capture.JPG" afterPath="$PROJECT_DIR$/ressources/image/Capture.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/image/entretientCuir.jpg" afterPath="$PROJECT_DIR$/ressources/image/entretientCuir.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/image/exterieur.jpg" afterPath="$PROJECT_DIR$/ressources/image/exterieur.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/image/hundaiWash.jpg" afterPath="$PROJECT_DIR$/ressources/image/hundaiWash.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/image/interieur.jpg" afterPath="$PROJECT_DIR$/ressources/image/interieur.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/image/logo.png" afterPath="$PROJECT_DIR$/ressources/image/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/image/picto_citadine.png" afterPath="$PROJECT_DIR$/ressources/image/picto_citadine.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/image/toyotaWahs.jpg" afterPath="$PROJECT_DIR$/ressources/image/toyotaWahs.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/contact.html" afterPath="$PROJECT_DIR$/Views/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/mainPage.html" afterPath="$PROJECT_DIR$/Views/mainPage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/tafif.html" afterPath="$PROJECT_DIR$/Views/tafif.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-grid.css" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-grid.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-grid.css.map" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-grid.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-grid.min.css" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-grid.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-grid.min.css.map" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-grid.min.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-reboot.css" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-reboot.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-reboot.css.map" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-reboot.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-reboot.min.css" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-reboot.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap-reboot.min.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap.min.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/font-awesome.min2.css" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/font-awesome.min2.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/css/style.css" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/js/bootstrap.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/js/custom.js" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/js/custom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/js/gmaps.js" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/js/gmaps.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/js/html5shiv.js" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/js/html5shiv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/js/jquery-2.1.1.js" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/js/jquery-2.1.1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/js/modernizr.js" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/js/modernizr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/js/respond.min.js" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/js/respond.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/js/smoothscroll.js" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/js/smoothscroll.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper-utils.js" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper-utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper-utils.js.map" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper-utils.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper-utils.min.js" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper-utils.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper-utils.min.js.map" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper-utils.min.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper.js" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper.js.map" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper.min.js" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper.min.js.map" afterPath="$PROJECT_DIR$/ressources/bootstrap/dist/popper/popper.min.js.map" />
     </list>
     <ignored path="WashCar.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -140,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mainPage.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mainPage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Views/mainPage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7058824">
-              <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="45" column="62" selection-start-line="45" selection-start-column="62" selection-end-line="45" selection-end-column="68" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -156,8 +42,30 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Views/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.625">
               <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tafif.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Views/tafif.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.875">
+              <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ressources/bootstrap/dist/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9540582">
+              <caret line="875" column="22" selection-start-line="875" selection-start-column="22" selection-end-line="875" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -167,17 +75,7 @@
         <entry file="file://$PROJECT_DIR$/ressources/bootstrap/dist/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ressources/bootstrap/dist/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.791667">
-              <caret line="681" column="10" selection-start-line="681" selection-start-column="10" selection-end-line="681" selection-end-column="10" />
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -223,11 +121,11 @@
         <option value="$PROJECT_DIR$/mainPage.html" />
         <option value="$PROJECT_DIR$/ressources/bootstrap/dist/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/../Doctor Free Website Template - Free-CSS.com/index.html" />
-        <option value="$PROJECT_DIR$/ressources/bootstrap/dist/js/custom.js" />
-        <option value="$PROJECT_DIR$/Views/tafif.html" />
         <option value="$PROJECT_DIR$/Views/contact.html" />
-        <option value="$PROJECT_DIR$/ressources/bootstrap/dist/css/style.css" />
+        <option value="$PROJECT_DIR$/ressources/bootstrap/dist/js/custom.js" />
         <option value="$PROJECT_DIR$/Views/mainPage.html" />
+        <option value="$PROJECT_DIR$/Views/tafif.html" />
+        <option value="$PROJECT_DIR$/ressources/bootstrap/dist/css/style.css" />
       </list>
     </option>
   </component>
@@ -265,7 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -283,22 +180,8 @@
               <option name="myItemId" value="Wash Car" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WashCar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Wash Car" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ressources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="image" />
+              <option name="myItemId" value="Views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -319,6 +202,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -390,6 +274,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="97317740-3d91-43e8-a262-4309e3a5f9b5" name="Default" comment="" />
@@ -432,6 +319,14 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -440,6 +335,41 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Views/mainPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ressources/bootstrap/dist/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ressources/bootstrap/dist/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="681" column="10" selection-start-line="681" selection-start-column="10" selection-end-line="681" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Views/mainPage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -667,21 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Views/tafif.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Views/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ressources/image/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -694,30 +609,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ressources/bootstrap/dist/js/js L6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/mainPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="45" column="62" selection-start-line="45" selection-start-column="62" selection-end-line="45" selection-end-column="68" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/tafif.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ressources/bootstrap/dist/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ressources/bootstrap/dist/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.791667">
-          <caret line="681" column="10" selection-start-line="681" selection-start-column="10" selection-end-line="681" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.9540582">
+          <caret line="875" column="22" selection-start-line="875" selection-start-column="22" selection-end-line="875" selection-end-column="22" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Views/mainPage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7058824">
-          <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
-          <folding>
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
