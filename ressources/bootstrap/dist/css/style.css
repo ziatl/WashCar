@@ -762,6 +762,11 @@ responsive area
     .contact-caption {
         margin-top: 180px;
     }
+    .about h2 {
+        font-size: 50px;
+        color: #42b3e5;
+        margin-top: 160px;
+    }
 }
 
 /* xs */
